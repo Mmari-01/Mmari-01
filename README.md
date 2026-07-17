@@ -47,7 +47,7 @@ I enjoy creating user interfaces, modeling in Blender, learning new technologies
 
 <td>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+<img src="https://tenor.com/mMG1yKI3Has.gif" width="300"/>
 
 </td>
 
@@ -92,68 +92,21 @@ I enjoy creating user interfaces, modeling in Blender, learning new technologies
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mmari-01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmari-01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mmari-01&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-[![Maria's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mmari-01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Mmari-01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
-
-</p>
-
----
-
-# 🏅 Certifications
-
-- Scrum Fundamentals Certified (SFC)
-
----
-
-# 🌐 Connect with me
+<h2>🌐 Connect with me</h2>
 
 <p align="left">
-
 <a href="mailto:madridperezm8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="(https://www.linkedin.com/in/maria-madrid1/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/maria-madrid1/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+<a href="https://github.com/Mmari-01">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 </p>
-
 ---
 
 <div align="center">
