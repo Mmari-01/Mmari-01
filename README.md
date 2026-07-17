@@ -47,7 +47,7 @@ I enjoy creating user interfaces, modeling in Blender, learning new technologies
 
 <td>
 
-<img src="https://tenor.com/mMG1yKI3Has.gif" width="300"/>
+<img src="https://media1.tenor.com/m/kwKF_z4Mz_4AAAAC/brushbuddy-brushbully.gif" width="300"/>
 
 </td>
 
@@ -101,10 +101,6 @@ I enjoy creating user interfaces, modeling in Blender, learning new technologies
 
 <a href="https://www.linkedin.com/in/maria-madrid1/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/Mmari-01">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
 ---
